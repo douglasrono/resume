@@ -2302,6 +2302,8 @@ section {
   padding: 60px 0 30px 0;
 }
 
+
+
 @media (max-width: 992px) {
   .footer .footer-top {
     background-position: center bottom;
@@ -2413,4 +2415,16 @@ section {
   text-align: center;
   font-size: 13px;
   color: #012970;
+}
+
+footer .bi{
+    font-size: 30px;
+}
+
+.bi-github{
+    color:black;
+}
+
+.bi-linkedin{
+    color: #024ed5;
 }
